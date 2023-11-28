@@ -1,6 +1,6 @@
 # app-dev
 My first repositiry
-# H1 Favorite Series #1
+#  Favorite Series #
 1. A Series of Unfortunate Event 1
 2. Bakugan 2
 3. Naruto 3
